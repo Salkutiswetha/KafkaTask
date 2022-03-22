@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "9g7SM76JsTGdC4poQ57U75hNLh6OzGPcpXx70WC2We90MheLlL3+2tHi+oyrNWAj4Ajpt8GzWn0nGrBsywvSog==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\althaf.s\\Desktop\\Althaf\\Althaf\\Consumer\\Consumer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\althaf.s\\.nuget\\packages\\confluent.kafka\\1.8.2\\confluent.kafka.1.8.2.nupkg.sha512",
+    "C:\\Users\\althaf.s\\.nuget\\packages\\librdkafka.redist\\1.8.2\\librdkafka.redist.1.8.2.nupkg.sha512",
+    "C:\\Users\\althaf.s\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
